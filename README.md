@@ -10,6 +10,7 @@ I am a junior software developer with experience in languages such as Java, Pyth
    * Experimenting with Arch Linux
    * Developing an Android App
    * Setting up my dotfiles repo
+   * Learning more about CI/CD, experimenting with SonarQube/GitHub actions on my older projects
 - 📫 How to reach me: 
     * giorgosnl17@gmail.com
     * [My LinkedIn profile](https://www.linkedin.com/in/giorgos-nikolaou/)
