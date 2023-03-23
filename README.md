@@ -5,12 +5,13 @@ I am a junior software engineer with experience in languages such as Python, C++
    * Cloud computing
    * Cybersecurity
    * Android development
-   * Web development
+   * Full Stack development
 - 🎯I am currently:
-   * Experimenting with Arch Linux
    * Developing an Android App
+   * Working on a collaborative Django/React project
+   * Working on my first published Python package
    * Setting up my dotfiles repo
-   * Learning more about CI/CD, experimenting with SonarQube/GitHub actions on my older projects
+   * Learning more about CI/CD tools, experimenting with tools like SonarQube, Snyk and Jenkins on my older and newer projects
 - 📫 How to reach me: 
     * giorgosnl17@gmail.com
     * [My LinkedIn profile](https://www.linkedin.com/in/giorgos-nikolaou/)
