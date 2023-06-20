@@ -15,3 +15,19 @@ I am a junior software engineer with experience in languages such as Python, C++
 - 📫 How to reach me: 
     * giorgosnl17@gmail.com
     * [My LinkedIn profile](https://www.linkedin.com/in/giorgos-nikolaou/)
+ 
+<br />
+
+<br/> 
+<p align="center">
+<img height="181em" src="https://github-readme-stats.vercel.app/api?username=GiorgosNik&show_icons=true&theme=tokyonight" align = "center"/>
+<img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgosNik&layout=compact&theme=tokyonight" align = "center"/>
+</p>
+
+<br/> 
+
+
+<h3><p align="center">Total Profile Visit: since 13.05.2023</p>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/GiorgosNik/count.svg"/>
+</p>
