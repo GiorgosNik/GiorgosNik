@@ -1,6 +1,6 @@
 👋 Hi, I’m @GiorgosNik
 
-I am a junior software engineer with experience in languages such as Python, C++ and Java. I have a passion for creating scalable and efficient software solutions, with a special interest in cybersecurity and android development.
+I am a software engineer with experience in languages such as Python, C++ and Java. I have a passion for creating scalable and efficient software solutions, with a special interest in cybersecurity and android development.
 -  👀 I’m interested in / I want to learn more about
    * Cloud computing
    * Cybersecurity
