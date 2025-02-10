@@ -1,6 +1,6 @@
 👋 Hi, I’m @GiorgosNik
 
-I am a software engineer with experience in languages such as Python, C++ and Java. I have a passion for creating scalable and efficient software solutions, with a special interest in cybersecurity and android development.
+I am a software engineer with experience in languages Python, C++ and C#. I am passionate about creating scalable and efficient software solutions, with a special interest in cybersecurity and Android development.
 -  👀 I’m interested in / I want to learn more about
    * Cloud computing
    * Cybersecurity
@@ -10,7 +10,6 @@ I am a software engineer with experience in languages such as Python, C++ and Ja
    * Developing an Android App
    * Working on a collaborative Django/React project
    * Working on my first published Python package
-   * Setting up my dotfiles repo
    * Learning more about CI/CD tools, experimenting with tools like SonarQube, Snyk and Jenkins on my older and newer projects
 - 📫 How to reach me: 
     * giorgosnl17@gmail.com
