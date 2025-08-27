@@ -1,16 +1,16 @@
 👋 Hi, I’m @GiorgosNik
 
-I am a software engineer with experience in languages Python, C++ and C#. I am passionate about creating scalable and efficient software solutions, with a special interest in cybersecurity and Android development.
+I am a Software Engineer with experience in languages Python, C++, and C#. I am passionate about creating scalable and efficient software solutions.
 -  👀 I’m interested in / I want to learn more about
    * Cloud computing
    * Cybersecurity
-   * Android development
    * Full Stack development
 - 🎯I am currently:
-   * Developing an Android App
+   * Studying for a Master's Degree at the University of Amsterdam
+   * Working on a desktop Python application using Custom tkinter.
    * Working on a collaborative Django/React project
-   * Working on my first published Python package
-   * Learning more about CI/CD tools, experimenting with tools like SonarQube, Snyk and Jenkins on my older and newer projects
+   * Maintaining my first published Python package
+   * Experimenting with tools like SonarQube, Snyk, and Jenkins on my older and newer projects
 - 📫 How to reach me: 
     * giorgosnl17@gmail.com
     * [My LinkedIn profile](https://www.linkedin.com/in/giorgos-nikolaou/)
